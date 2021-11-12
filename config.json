@@ -1,0 +1,26 @@
+{
+    "name": "leon",
+    "actions": [
+        {
+            "name": "escreva",
+            "objects": [
+                "arquivo"
+            ]
+        },
+        {
+            "name": "leia",
+            "objects": [
+                "arquivo"
+            ]
+        },
+        {
+            "name":"pare",
+            "objects":[
+                "aplicação",
+                "projeto",
+                "programa",
+                "execução"
+            ]
+        }
+    ]
+}
