@@ -2,7 +2,7 @@ import speech_recognition as sr
 from nltk import word_tokenize, corpus
 import json
 
-class Leon:
+class Leno:
     def __init__(self):
         self.keepListening = True
         self.LANGUAGE = 'portuguese'
@@ -132,6 +132,6 @@ class Leon:
             
             self.keepListening = False
         
-l = Leon()
+l = Leno()
 
 l.main()
