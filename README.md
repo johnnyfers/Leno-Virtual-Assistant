@@ -1,4 +1,4 @@
-# Leon - Virtual Assistant
+# Leno - Virtual Assistant
 
 ### how to run
 
