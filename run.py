@@ -110,7 +110,7 @@ class Leon:
             f.close()
             
     @staticmethod
-    def writeFile():
+    def writeFile(self):
         print("writing on the file ...")
         command = self.get_speech()
             
@@ -125,7 +125,7 @@ class Leon:
             self.readFile()
                 
         if action == 'escreva':
-            self.writeFile()
+            self.writeFile(self)
             
         if action == 'pare':
             print('bye')
